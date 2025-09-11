@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual environments
+pushup-env-311/
+.venv/
+env/
+venv/
+
+# --- Node / React ---
+node_modules/
+build/
+dist/
+*.lock
+
+# --- Project outputs ---
+uploads/
+results/
+*.mp4
+*.csv
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
